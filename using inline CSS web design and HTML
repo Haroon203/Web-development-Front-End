@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body
+        {
+            margin: 0%;
+        }
+        .menu
+        {
+            width: 100%;
+            height: 40px;
+            background-color: gray;
+        }
+        .menu ul
+        {
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+        }
+       .menu ul li
+       {
+        list-style: none;
+        background-color: grey;
+        float: left;
+        width: 10%;
+        text-align: center;
+        border-right: 1px solid black;
+        height: 40px;
+        line-height: 30px;
+        color: white;
+       }
+       .a
+       {
+        width: 70%;  
+        background-color: aqua;
+       }
+    </style>
+</head>
+<body>
+    <div style="background-color: black;height: 75px; width: 100%;">
+     <h1 style="margin-top: 0px; color: white; font-size: 25px;padding: 15px;">HTML <span style="font-size: 38px; color: orange;"><span style="vertical-align: sub;">5</span></h1>
+
+    </div>
+    <div class="menu">
+        <ul>
+            <li><a href="Link1.html"style="color: white; text-decoration: none">Link1</a></li>
+            <li><a href="Link2.html"style="color: white; text-decoration: none">Link2</a></li>
+            <li><a href="Link3.html"style="color: white; text-decoration: none">Link3</a></li>
+            <li><a href="Link4.html"style="color: white; text-decoration: none">Link4</a></li>
+            <li><a href="Link5.html"style="color: white; text-decoration: none">Link5</a></li>
+        </ul>
+    </div>
+    <div style="background-color: white; height: 200px; width: 70%; padding: 15px;float: left;">
+        <div style="background-color:  rgb(156, 156, 156); height: 170px; width: 15%; margin-top: 10px; float: left;"> </div>
+        <div style="background-color:  white; height: 170px; width: 80%; margin-top: 10px;float: left;">
+            <h2 style="padding-left: 10px;margin-top: 0px;">This is a Lorem Ipsum Heading</h2>
+            <p style="color: gray;padding-left: 10px;">Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia <br> nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+            <a href="Readmore.html" style="padding-left: 10px;color: orange; text-decoration: none;">Read More</a>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br>
+        <hr style="border: 1px solid rgb(139, 139, 139);">
+    </div>
+    <div style="background-color: rgb(156, 156, 156);height: 753.5px; width: 27.77%; float: right;"><h2 style="padding-left: 10px;">Sidbar Links</h2>
+    <hr style="border: 1px solid  rgb(78, 78, 78); width: 90%;">
+    <ul style="list-style: none;">
+        <li><a href="Link1.html" style="color: orange; text-decoration: none;padding-left: 10px; font-size: 20px;">Link 1</a></li> <br>
+        <Li><a href="Link2.html" style="padding-left: 10px;color: orange; text-decoration: none; font-size: 20px;">Link 2</a></Li> <br>
+        <li><a href="Link3.html" style="padding-left: 10px;color: orange; text-decoration: none; font-size: 20px;">Link 3</a></li> <br>
+        <li><a href="Link4.html" style="padding-left: 10px;color: orange; text-decoration:none; font-size: 20px;">Link 4</a></li> <br>
+    </ul>
+    <h2 style="padding-left: 10px;">Other Widgets</h2>
+    <hr style="border: 1px solid  rgb(78, 78, 78); width: 90%;">
+    <p style="color: rgb(78, 78, 78) ;padding-left: 10px;">This is Photoshop's version of Lorem Ipsum. Proin <br> gravida nibh vel velit auctor aliquet. Aenean sollicitudin, <br> lorem quis bibendum auctor, nisi elit consequat ipsum, <br> nec sagittis sem nibh id elit. <br> <br>
+    Duis sed odio sit amet nibh vulputate cursus a sit amet <br> mauris.</p>
+    </div>
+    <div style="background-color: white; height: 200px; width: 70%; padding: 15px;float: left;">
+        <div style="background-color:  rgb(156, 156, 156); height: 170px; width: 15%; margin-top: 10px; float: left;"> </div>
+        <div style="background-color:  white; height: 170px; width: 80%; margin-top: 10px;float: left;">
+            <h2 style="padding-left: 10px;margin-top: 0px;">This is a Lorem Ipsum Heading</h2>
+            <p style="color: grey;padding-left: 10px;">Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia <br> nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+            <a href="Readmore.html" style="padding-left: 10px;color: orange; text-decoration: none;">Read More</a>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br>
+        <hr style="border: 1px solid  rgb(139, 139, 139);">
+    </div>
+    <div style="background-color: white; height: 200px; width: 70%; padding: 15px;float: left;">
+        <div style="background-color:  rgb(156, 156, 156); height: 170px; width: 15%; margin-top: 10px; float: left;"> </div>
+        <div style="background-color:  white; height: 170px; width: 80%; margin-top: 10px;float: left;">
+            <h2 style="padding-left: 10px;margin-top: 0px;">This is a Lorem Ipsum Heading</h2>
+            <p style="color: gray;padding-left: 10px;">Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia <br> nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+            <a href="Readmore.html" style="padding-left: 10px;color: orange; text-decoration: none;">Read More</a>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br>
+        <hr style="border: 1px solid  rgb(139, 139, 139);">
+    </div>
+    <div style="background-color: white;height: 65px;width: 72.23%; float: left;"></div>
+    <div style="background-color: black;height: 60px;width: 100%; float: left;"><p style="color: white;text-align: center;">Copyright <span style="color: orange;"> Your Site.</span> All rights reserved.</p></div>
+</body>
+</html>
